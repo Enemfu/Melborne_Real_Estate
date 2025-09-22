@@ -1,0 +1,26 @@
+{
+  "num_cols": [
+    "Rooms",
+    "Bedroom2",
+    "Bathroom",
+    "Car",
+    "Landsize",
+    "Distance"
+  ],
+  "cat_cols": [
+    "Type",
+    "RegionName"
+  ],
+  "engineered": [],
+  "features_all": [
+    "Rooms",
+    "Bedroom2",
+    "Bathroom",
+    "Car",
+    "Landsize",
+    "Distance",
+    "Type",
+    "RegionName"
+  ],
+  "target": "Price"
+}
